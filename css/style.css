@@ -1,0 +1,68 @@
+h1 {
+  font-family: "montserrat", sans-serif;
+  text-align: center;
+}
+
+main {
+  font-family: "Tajawal", sans-serif;
+}
+
+#calculator {
+  width: 300px;
+  margin: 5% auto 0;
+}
+
+span {
+  display: inline-block;
+  background-color: black;
+  height: 75px;
+  width: 300px;
+  margin-bottom: -7px;
+  color: white;
+}
+.rows {
+  display: flex;
+  justify-content: space-around;
+  width: inherit;
+}
+
+button {
+  height: 75px;
+  width: 75px;
+  background-color: gainsboro;
+  outline: none;
+  border: 0.5px solid #2c2c2c;
+  font-size: 25px;
+}
+
+button:hover {
+  background: #ededed;
+}
+
+.longButtons {
+  width: 150px;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
+.orange:hover {
+  background-color: #FFCF9E;
+}
+
+.xlButtons {
+  width: 225px;
+}
+
+.buttons__white-fonts {
+  color: white;
+}
+
+span p {
+  margin-top: 14px;
+  margin-right: 10px;
+  font-size: 32px;
+  float: right;
+}
