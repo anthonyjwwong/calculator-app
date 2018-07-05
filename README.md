@@ -1,6 +1,6 @@
 # Calculator
 
-## A Calculator App that does basic arithmetics.
+A Calculator App that does basic arithmetics.
 
 ## Use
 You can try it out here  https://anthonyjwwong.github.io/calculator-app/ <br>
